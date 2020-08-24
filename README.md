@@ -29,7 +29,7 @@
 - beim regelmäßigen hochladen/einchecken ist es schwierig in Probleme zu geraten
 
 
-# Eine geänderte Datei kann:
+### Eine geänderte Datei kann:
 - Modified (nur lokal gespeichert, nicht in der Datenbank)
 - Staged (bereit und markiert für den nächsten Commit)
 - oder Committed (sicher in der lokalen Datenbank gespeichert) sein.
